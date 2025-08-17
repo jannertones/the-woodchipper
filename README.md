@@ -4,4 +4,4 @@ the woodchipper by ~degausserDSP is an audio plugin for real-time granular proce
 
 the woodchipper is an open-source plugin under a GPL v3.0 license, meaning you can use and modify the source code as much as you want (though it must remain open source if you are distributing it). additionally, it is free to download and use! [though, feel free to buy us a coffee :)](https://www.buymeacoffee.com/degausserDSP)
 
-visit [tannerjones.tv](tannerjones.tv) for more info!
+visit [tannerjones.tv](https://www.tannerjones.tv) for more info!
