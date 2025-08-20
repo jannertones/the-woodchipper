@@ -1,2 +1,7 @@
-# the-woodchipper
-a highly-randomizable, real-time granular processing plugin
+# the woodchipper
+<img src="documents/thewoodchipper_ui.png">
+the woodchipper by ~degausserDSP is an audio plugin for real-time granular processing. the woodchipper generates grains from an incoming signal, like your track's audio in a DAW, or from a user-loaded audio file within the plugin itself. with randomizable parameters for the rate of grain emission and each grain's volume/duration/pitch/pan/envelope/eq/direction, the sound transformation possibilities are endless. 
+
+the woodchipper is an open-source plugin under a GPL v3.0 license, meaning you can use and modify the source code as much as you want (though it must remain open source if you are distributing it). additionally, it is free to download and use! [though, feel free to buy us a coffee :)](https://www.buymeacoffee.com/degausserDSP)
+
+visit [tannerjones.tv](https://www.tannerjones.tv) for more info!
